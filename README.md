@@ -16,3 +16,5 @@ também seu painel físico para garantir que não haja outras opções de decis�
 tomadas em sua rotina laboratorial. Desde já agradeço a confiança e a oportunidade de 
 trabalharmos juntos rumo a um futuro próspero para a saúde. Por favor, aproveite sua 
 aplicação!
+
+Versão Compilada: https://drive.google.com/drive/folders/1yvzSs61UpY5HUfa65MDTXLawVa04Kk_S?usp=sharing
